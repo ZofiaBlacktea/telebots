@@ -38,7 +38,7 @@ class BotHandler:
 
 
 greet_bot = BotHandler("582422878:AAGZVstGECcxJaPuCka6QQebE2T9VEv8FkI")
-greetings = ('hello', 'hi', 'greetings', 'sup', "henlo?")
+greetings = ('hello', 'hi', 'greetings', 'sup', "henlo?", "hewwo?")
 now = datetime.datetime.now()
 
 
